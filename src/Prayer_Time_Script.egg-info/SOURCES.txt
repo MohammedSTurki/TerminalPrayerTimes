@@ -1,0 +1,6 @@
+setup.py
+src/Prayer_Time_Script.egg-info/PKG-INFO
+src/Prayer_Time_Script.egg-info/SOURCES.txt
+src/Prayer_Time_Script.egg-info/dependency_links.txt
+src/Prayer_Time_Script.egg-info/requires.txt
+src/Prayer_Time_Script.egg-info/top_level.txt

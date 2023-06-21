@@ -1,0 +1,7 @@
+requests
+pyfiglet
+tabulate
+pytest
+
+[tests]
+pytest
