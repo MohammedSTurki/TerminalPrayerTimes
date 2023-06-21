@@ -47,8 +47,10 @@ def timing_parse_function(time_data):
 
 
 def prayer_time_table(parsed_prayer_time):
-    tabulated_list = tabulate(parsed_prayer_time, showindex="always",
-                              tablefmt="heavy_outline")
+    tabulated_list = tabulate(parsed_prayer_time,
+                              showindex="always",
+                              tablefmt="heavy_outline",
+                              headers=["Prayer", "Time"])
     print(tabulated_list)
 
 
